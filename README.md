@@ -1,6 +1,6 @@
-# Hackerrank-Challenges
+# HackerRank-Challenges
 
-Some solutions in PHP and Javascript for the challenges in Hackerrank.
+Some solutions in PHP and Javascript for the challenges in HackerRank - https://www.hackerrank.com.
 
 Challenges in Javascript
 
